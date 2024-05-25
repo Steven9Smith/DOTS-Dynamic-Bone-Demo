@@ -1,0 +1,23 @@
+{
+    "name": "Latios.Psyshock",
+    "rootNamespace": "Latios.Psyshock",
+    "references": [
+        "Latios.Core",
+        "Latios.Transforms",
+        "Unity.Entities",
+        "Unity.Collections",
+        "Unity.Mathematics",
+        "Unity.Jobs",
+        "Unity.Entities.Hybrid",
+        "Unity.Burst"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
